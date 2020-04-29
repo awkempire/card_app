@@ -15,16 +15,16 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-   <distributionManagement>
-   <snapshotRepository>
+<distributionManagement>
+    <snapshotRepository>
         <id>snapshots</id>
-        <name>awkempire-artifactory-primary-0-snapshots</name>
-        <url>https://awkempire.jfrog.io/artifactory/libs-snapshot</url>
+        <name>pkarve-artifactory-primary-0-snapshots</name>
+        <url>https://pkarve.jfrog.io/artifactory/libs-snapshot</url>
     </snapshotRepository>
     <repository>
         <id>central</id>
-        <name>awkempire-artifactory-primary-0-releases</name>
-        <url>https://awkempire.jfrog.io/artifactory/libs-release</url>
+        <name>pkarve-artifactory-primary-0-releases</name>
+        <url>https://pkarve.jfrog.io/artifactory/libs-release</url>
     </repository>
 </distributionManagement>
 </project>
